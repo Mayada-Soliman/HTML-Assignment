@@ -1,0 +1,8 @@
+1- <input type="submit">
+2- <title>
+3- <h2>
+4- <p>
+5- <meta charset="UTF-8"
+6- 10 to 20 
+7- tabeindex="0"
+8- accessible rich internet application

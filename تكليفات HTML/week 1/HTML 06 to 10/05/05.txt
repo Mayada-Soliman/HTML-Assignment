@@ -1,0 +1,8 @@
+title >>>global 
+href >>> element attribute
+src >>>element attribute
+hidden >>> global 
+charset >>> element attribute
+class >>> global 
+id >>>  global 
+type >>> global
